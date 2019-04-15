@@ -1,0 +1,133 @@
+{
+    "status": 200,
+    "result": [
+        {
+            "_id": "5c9660b958d08c28403175b4",
+            "pod_id": "1234",
+            "tabs": {
+                "Risk Management": [
+                    {
+                        "heading": "This is a text response.",
+                        "subheading": "This is a text response..",
+                        "options": [
+                            "Yes",
+                            "No"
+                        ],
+                        "enabler": "",
+                        "enabled_questions": [
+                            {
+                                "question": "",
+                                "options": []
+                            }
+                        ],
+                        "short": "RM-",
+                        "question": "This is a text response.",
+                        "weight": 1,
+                        "answer": "No",
+                        "answerer": ""
+                    },
+                    {
+                        "options": [
+                            "Yes",
+                            "No"
+                        ],
+                        "enabler": "",
+                        "enabled_questions": [
+                            {
+                                "question": "",
+                                "options": []
+                            }
+                        ],
+                        "short": "RM-",
+                        "question": "This is a text response.",
+                        "weight": 1,
+                        "answer": "Yes",
+                        "answerer": ""
+                    },
+                    {
+                        "options": [
+                            "Yes",
+                            "No"
+                        ],
+                        "enabler": "",
+                        "enabled_questions": [
+                            {
+                                "question": "",
+                                "options": []
+                            }
+                        ],
+                        "short": "RM-",
+                        "question": "This is a text response.",
+                        "weight": 3,
+                        "answer": "No",
+                        "answerer": ""
+                    },
+                    {
+                        "options": [
+                            "Yes",
+                            "No"
+                        ],
+                        "enabler": "",
+                        "enabled_questions": [
+                            {
+                                "question": "",
+                                "options": []
+                            }
+                        ],
+                        "short": "RM-",
+                        "question": "This is a text response..",
+                        "weight": 3,
+                        "answer": "Yes",
+                        "answerer": ""
+                    }
+                ],
+                "Security Training": [
+                    {
+                        "heading": "This is a text response.",
+                        "subheading": "This is a text response.",
+                        "options": [
+                            "Yes",
+                            "No"
+                        ],
+                        "enabler": "",
+                        "enabled_questions": [
+                            {
+                                "question": "",
+                                "options": []
+                            }
+                        ],
+                        "short": "SA-",
+                        "question": This is a text response..",
+                        "weight": 2,
+                        "answer": "Yes",
+                        "answerer": ""
+                    },
+                    {
+                        "options": [
+                            "Yes",
+                            "No"
+                        ],
+                        "enabler": "",
+                        "enabled_questions": [
+                            {
+                                "question": "",
+                                "options": []
+                            }
+                        ],
+                        "short": "SA-",
+                        "question": "This is a text response.",
+                        "weight": 2,
+                        "answer": "No",
+                        "answerer": ""
+                    }
+                ]
+            },
+            "application_ids": [
+                "12345678"
+            ],
+            "risk_weight": 7,
+            "actual_weight": 12,
+            "maturity": 58
+        }
+    ]
+}
